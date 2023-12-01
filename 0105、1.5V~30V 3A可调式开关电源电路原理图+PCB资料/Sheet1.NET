@@ -1,0 +1,1535 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+C1
+FOOTPRINT
+RB.4/.8
+PARTTYPE
+4700¦Ìf/50V
+DESCRIPTION
+Bi-Polar Capacitor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=CAP(C)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+C2
+FOOTPRINT
+RB.4/.8
+PARTTYPE
+4700¦Ìf/50V
+DESCRIPTION
+Bi-Polar Capacitor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=CAP(C)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+C3
+FOOTPRINT
+RB.1/.3
+PARTTYPE
+100¦Ìf/50V
+DESCRIPTION
+Bi-Polar Capacitor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=CAP(C)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+C4
+FOOTPRINT
+RB.1/.2
+PARTTYPE
+10¦Ìf/50V
+DESCRIPTION
+Bi-Polar Capacitor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=CAP(C)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+C5
+FOOTPRINT
+RAD0.2
+PARTTYPE
+0.01¦Ìf/50V
+DESCRIPTION
+Capacitor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=CAP(C)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+C6
+FOOTPRINT
+RAD0.2
+PARTTYPE
+0.22¦Ìf
+DESCRIPTION
+Capacitor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=CAP(C)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+C7
+FOOTPRINT
+RAD0.2
+PARTTYPE
+0.01¦Ìf
+DESCRIPTION
+Capacitor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=CAP(C)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+C8
+FOOTPRINT
+RB.1/.2
+PARTTYPE
+10¦Ìf/35V
+DESCRIPTION
+Bi-Polar Capacitor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=CAP(C)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+C9
+FOOTPRINT
+RB.3/.6
+PARTTYPE
+2200¦Ìf/35V
+DESCRIPTION
+Bi-Polar Capacitor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=CAP(C)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+C10
+FOOTPRINT
+RB.3/.6
+PARTTYPE
+3300¦Ìf/35V
+DESCRIPTION
+Bi-Polar Capacitor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=CAP(C)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+C11
+FOOTPRINT
+RB.3/.6
+PARTTYPE
+3300¦Ìf/35V
+DESCRIPTION
+Bi-Polar Capacitor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=CAP(C)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+D1
+FOOTPRINT
+DIODE0.8
+PARTTYPE
+1N5404
+DESCRIPTION
+DIODE
+Part Field 1
+*
+Part Field 2
+*
+Part Field 3
+*
+Part Field 4
+*
+Part Field 5
+*
+Part Field 6
+*
+Part Field 7
+*
+Part Field 8
+*
+Part Field 9
+*
+Part Field 10
+*
+Part Field 11
+*
+Part Field 12
+*
+Part Field 13
+*
+Part Field 14
+*
+Part Field 15
+*
+Part Field 16
+*
+LIBRARYFIELD1
+
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+
+LIBRARYFIELD5
+
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+D2
+FOOTPRINT
+DIODE0.8
+PARTTYPE
+1N5404
+DESCRIPTION
+DIODE
+Part Field 1
+*
+Part Field 2
+*
+Part Field 3
+*
+Part Field 4
+*
+Part Field 5
+*
+Part Field 6
+*
+Part Field 7
+*
+Part Field 8
+*
+Part Field 9
+*
+Part Field 10
+*
+Part Field 11
+*
+Part Field 12
+*
+Part Field 13
+*
+Part Field 14
+*
+Part Field 15
+*
+Part Field 16
+*
+LIBRARYFIELD1
+
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+
+LIBRARYFIELD5
+
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+D3
+FOOTPRINT
+DIODE0.8
+PARTTYPE
+1N5404
+DESCRIPTION
+DIODE
+Part Field 1
+*
+Part Field 2
+*
+Part Field 3
+*
+Part Field 4
+*
+Part Field 5
+*
+Part Field 6
+*
+Part Field 7
+*
+Part Field 8
+*
+Part Field 9
+*
+Part Field 10
+*
+Part Field 11
+*
+Part Field 12
+*
+Part Field 13
+*
+Part Field 14
+*
+Part Field 15
+*
+Part Field 16
+*
+LIBRARYFIELD1
+
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+
+LIBRARYFIELD5
+
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+D4
+FOOTPRINT
+DIODE0.8
+PARTTYPE
+1N5404
+DESCRIPTION
+DIODE
+Part Field 1
+*
+Part Field 2
+*
+Part Field 3
+*
+Part Field 4
+*
+Part Field 5
+*
+Part Field 6
+*
+Part Field 7
+*
+Part Field 8
+*
+Part Field 9
+*
+Part Field 10
+*
+Part Field 11
+*
+Part Field 12
+*
+Part Field 13
+*
+Part Field 14
+*
+Part Field 15
+*
+Part Field 16
+*
+LIBRARYFIELD1
+
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+
+LIBRARYFIELD5
+
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+D5
+FOOTPRINT
+DIODE0.8
+PARTTYPE
+1N5822
+DESCRIPTION
+DIODE
+Part Field 1
+*
+Part Field 2
+*
+Part Field 3
+*
+Part Field 4
+*
+Part Field 5
+*
+Part Field 6
+*
+Part Field 7
+*
+Part Field 8
+*
+Part Field 9
+*
+Part Field 10
+*
+Part Field 11
+*
+Part Field 12
+*
+Part Field 13
+*
+Part Field 14
+*
+Part Field 15
+*
+Part Field 16
+*
+LIBRARYFIELD1
+
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+
+LIBRARYFIELD5
+
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+FU
+FOOTPRINT
+FUSE-1
+PARTTYPE
+5A
+DESCRIPTION
+
+Part Field 1
+*
+Part Field 2
+*
+Part Field 3
+*
+Part Field 4
+*
+Part Field 5
+*
+Part Field 6
+*
+Part Field 7
+*
+Part Field 8
+*
+Part Field 9
+*
+Part Field 10
+*
+Part Field 11
+*
+Part Field 12
+*
+Part Field 13
+*
+Part Field 14
+*
+Part Field 15
+*
+Part Field 16
+*
+LIBRARYFIELD1
+
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+
+LIBRARYFIELD5
+
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+IC1
+FOOTPRINT
+TO-220(T)
+PARTTYPE
+LM2576T-ADJ(5)
+DESCRIPTION
+SIMPLE SWITCHER 1A STEP DOWN VOLTAGE REGULATOR
+Part Field 1
+*
+Part Field 2
+*
+Part Field 3
+*
+Part Field 4
+*
+Part Field 5
+*
+Part Field 6
+*
+Part Field 7
+*
+Part Field 8
+*
+Part Field 9
+*
+Part Field 10
+*
+Part Field 11
+*
+Part Field 12
+*
+Part Field 13
+*
+Part Field 14
+*
+Part Field 15
+*
+Part Field 16
+*
+LIBRARYFIELD1
+
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+
+LIBRARYFIELD5
+
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+J1
+FOOTPRINT
+con2
+PARTTYPE
+CON2
+DESCRIPTION
+Connector
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+
+LIBRARYFIELD5
+
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+J2
+FOOTPRINT
+con2
+PARTTYPE
+CON2
+DESCRIPTION
+Connector
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+
+LIBRARYFIELD5
+
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+L1
+FOOTPRINT
+R1.2
+PARTTYPE
+220¦ÌH
+DESCRIPTION
+Inductor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=INDUCTOR(L)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P1
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+L2
+FOOTPRINT
+L.3/.6
+PARTTYPE
+100mH
+DESCRIPTION
+Inductor
+IC
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=INDUCTOR(L)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V %P1
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+R1
+FOOTPRINT
+AXIAL0.5
+PARTTYPE
+2.2K¦¸
+DESCRIPTION
+Resistor
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=RESISTOR(R)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+R2
+FOOTPRINT
+AXIAL0.5
+PARTTYPE
+510¦¸
+DESCRIPTION
+Resistor
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+LIBRARYFIELD1
+type=RESISTOR(R)
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+pins=1:[1,2]
+LIBRARYFIELD5
+netlist=%D %1 %2 %V
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+[
+DESIGNATOR
+RW1
+FOOTPRINT
+VR5
+PARTTYPE
+10K¦¸
+DESCRIPTION
+
+Part Field 1
+*
+Part Field 2
+*
+Part Field 3
+*
+Part Field 4
+*
+Part Field 5
+*
+Part Field 6
+*
+Part Field 7
+*
+Part Field 8
+*
+Part Field 9
+*
+Part Field 10
+*
+Part Field 11
+*
+Part Field 12
+*
+Part Field 13
+*
+Part Field 14
+*
+Part Field 15
+*
+Part Field 16
+*
+LIBRARYFIELD1
+
+LIBRARYFIELD2
+
+LIBRARYFIELD3
+
+LIBRARYFIELD4
+
+LIBRARYFIELD5
+
+LIBRARYFIELD6
+
+LIBRARYFIELD7
+
+LIBRARYFIELD8
+
+]
+(
+NetC6_1
+C6-1 0.22¦Ìf-1 PASSIVE        
+C7-1 0.01¦Ìf-1 PASSIVE        
+C8-1 10¦Ìf/35V-1 PASSIVE        
+C9-1 2200¦Ìf/35V-1 PASSIVE        
+IC1-4 LM2576T-ADJ(5)-FB INPUT          
+L1-2 220¦ÌH-2 PASSIVE        
+L2-1 100mH-1 PASSIVE        
+R1-1 2.2K¦¸-TOP PASSIVE        
+RW1-2 10K¦¸-2 PASSIVE        
+)
+(
+NetC6_2
+C1-2 4700¦Ìf/50V-2 PASSIVE        
+C2-2 4700¦Ìf/50V-2 PASSIVE        
+C3-2 100¦Ìf/50V-2 PASSIVE        
+C4-2 10¦Ìf/50V-2 PASSIVE        
+C5-2 0.01¦Ìf/50V-2 PASSIVE        
+C6-2 0.22¦Ìf-2 PASSIVE        
+C7-2 0.01¦Ìf-2 PASSIVE        
+C8-2 10¦Ìf/35V-2 PASSIVE        
+C9-2 2200¦Ìf/35V-2 PASSIVE        
+C10-2 3300¦Ìf/35V-2 PASSIVE        
+C11-2 3300¦Ìf/35V-2 PASSIVE        
+D2-A 1N5404-A PASSIVE        
+D4-A 1N5404-A PASSIVE        
+D5-A 1N5822-A PASSIVE        
+IC1-3 LM2576T-ADJ(5)-GND POWER          
+IC1-5 LM2576T-ADJ(5)-O\N\/OFF INPUT          
+J2-2 CON2-2 PASSIVE        
+R2-2 510¦¸-BOT PASSIVE        
+)
+(
+NetC10_1
+C10-1 3300¦Ìf/35V-1 PASSIVE        
+C11-1 3300¦Ìf/35V-1 PASSIVE        
+J2-1 CON2-1 PASSIVE        
+L2-2 100mH-2 PASSIVE        
+)
+(
+NetFU_2
+D1-A 1N5404-A PASSIVE        
+D2-K 1N5404-K PASSIVE        
+FU-2 5A- PASSIVE        
+)
+(
+NetIC1_1
+C1-1 4700¦Ìf/50V-1 PASSIVE        
+C2-1 4700¦Ìf/50V-1 PASSIVE        
+C3-1 100¦Ìf/50V-1 PASSIVE        
+C4-1 10¦Ìf/50V-1 PASSIVE        
+C5-1 0.01¦Ìf/50V-1 PASSIVE        
+D1-K 1N5404-K PASSIVE        
+D3-K 1N5404-K PASSIVE        
+IC1-1 LM2576T-ADJ(5)-IN POWER          
+)
+(
+NetIC1_2
+D5-K 1N5822-K PASSIVE        
+IC1-2 LM2576T-ADJ(5)-OUT POWER          
+L1-1 220¦ÌH-1 PASSIVE        
+)
+(
+NetJ1_1
+D3-A 1N5404-A PASSIVE        
+D4-K 1N5404-K PASSIVE        
+J1-1 CON2-1 PASSIVE        
+)
+(
+NetJ1_2
+FU-1 5A- PASSIVE        
+J1-2 CON2-2 PASSIVE        
+)
+(
+NetRW1_1
+R2-1 510¦¸-TOP PASSIVE        
+RW1-1 10K¦¸-1 PASSIVE        
+)
+(
+NetRW1_3
+R1-2 2.2K¦¸-BOT PASSIVE        
+RW1-3 10K¦¸-3 PASSIVE        
+)

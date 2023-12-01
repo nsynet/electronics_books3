@@ -1,0 +1,447 @@
+BODY {
+	BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/434d96876149252066096e67.jpg?v=1) #a50801 repeat-x 0px 26px
+}
+BODY {
+	FONT-SIZE: 13px; COLOR: #442511; LINE-HEIGHT: 20px
+}
+TABLE {
+	FONT-SIZE: 13px; COLOR: #442511; LINE-HEIGHT: 20px
+}
+TD {
+	FONT-SIZE: 13px; COLOR: #442511; LINE-HEIGHT: 20px
+}
+DIV {
+	FONT-SIZE: 13px; COLOR: #442511; LINE-HEIGHT: 20px
+}
+SPAN {
+	FONT-SIZE: 13px; COLOR: #442511; LINE-HEIGHT: 20px
+}
+P {
+	FONT-SIZE: 13px; COLOR: #442511; LINE-HEIGHT: 20px
+}
+A {
+	FONT-SIZE: 13px; COLOR: #a50801; TEXT-DECORATION: underline
+}
+A:link {
+	FONT-SIZE: 13px; COLOR: #a50801; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-SIZE: 13px; COLOR: #a50801; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-SIZE: 13px; COLOR: #5e7d17; TEXT-DECORATION: none
+}
+.lk {
+	COLOR: #a50801! important; TEXT-DECORATION: underline
+}
+.date {
+	FONT-SIZE: 12px; COLOR: #a50801; FONT-FAMILY: georgia
+}
+.index {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #999999; TEXT-ALIGN: center
+}
+.cnt {
+	LINE-HEIGHT: 150%
+}
+.line {
+	LINE-HEIGHT: 0px! important
+}
+#header {
+	BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/64a15a613e70d95aebf8f88c.jpg?v=1) no-repeat center bottom; HEIGHT: 288px
+}
+#header DIV.tit {
+	FONT-WEIGHT: bold; RIGHT: 350px; LINE-HEIGHT: 30px; FONT-FAMILY: arial; TOP: 160px
+}
+#header DIV.tit A.titlink {
+	FONT-SIZE: 35px; COLOR: #a50801; TEXT-DECORATION: none
+}
+#header DIV.tit A.titlink:visited {
+	FONT-SIZE: 35px; COLOR: #a50801; TEXT-DECORATION: none
+}
+#header DIV.tit A.titlink:hover {
+	FONT-SIZE: 25px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #a50801; TEXT-DECORATION: none
+}
+#header DIV.desc {
+	FONT-SIZE: 12px; RIGHT: 350px; COLOR: #a50801; LINE-HEIGHT: 20px; TOP: 140px
+}
+#tab {
+	LEFT: 40px; WIDTH: 627px! important; TOP: 210px; HEIGHT: 23px; max-width: 627px
+}
+#tab A.on {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #6da913
+}
+#tab A.on:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #6da913
+}
+#tab A.on:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #6da913
+}
+#tab A {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px! important; MARGIN: 0px; WIDTH: 95px; COLOR: #fff; PADDING-TOP: 0px! important; HEIGHT: 23px; TEXT-ALIGN: center; TEXT-DECORATION: none; max-width: 95px
+}
+#tab A:link {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px! important; MARGIN: 0px; WIDTH: 95px; COLOR: #fff; PADDING-TOP: 0px! important; HEIGHT: 23px; TEXT-ALIGN: center; TEXT-DECORATION: none; max-width: 95px
+}
+#tab A:visited {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px! important; MARGIN: 0px; WIDTH: 95px; COLOR: #fff; PADDING-TOP: 0px! important; HEIGHT: 23px; TEXT-ALIGN: center; TEXT-DECORATION: none; max-width: 95px
+}
+#tab A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #6da913
+}
+#tab SPAN {
+	COLOR: #a50801
+}
+#main {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/454f4aca2605ac01be09e68c.jpg?v=1) no-repeat center bottom; PADDING-BOTTOM: 171px! important; WIDTH: 953px! important; PADDING-TOP: 0px! important
+}
+.stage {
+	BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/d1935c236d097eba4623e88c.jpg?v=1) repeat-y center top
+}
+.stagepad {
+	PADDING-RIGHT: 30px! important; PADDING-LEFT: 30px! important
+}
+#layout TD.c2t1 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 30px! important
+}
+#layout TD.c2t3 {
+	PADDING-RIGHT: 30px! important; PADDING-LEFT: 10px
+}
+#layout TD.c3t1 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 30px
+}
+#layout TD.c3t5 {
+	PADDING-RIGHT: 30px; PADDING-LEFT: 10px
+}
+#layout TD.c1t1 {
+	PADDING-RIGHT: 50px; PADDING-LEFT: 50px
+}
+.mod {
+	MARGIN-BOTTOM: 10px
+}
+.modth {
+	BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 24px
+}
+.modhead {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 0px; PADDING-TOP: 2px
+}
+.modopt {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.modtit {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #fff8ec
+}
+A.modtit {
+	FONT-SIZE: 12px; COLOR: #442511
+}
+.modbox {
+	BACKGROUND: #ffffff; PADDING-TOP: 8px
+}
+.modtl {
+	BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/a802d8517ba49e421138c257.jpg?v=1) #ffffff no-repeat left top; WIDTH: 10px; HEIGHT: 24px
+}
+.modtc {
+	BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/82bd6242a97cea0f9213c657.jpg?v=1) #ffffff repeat-x center top; LEFT: 7px; HEIGHT: 24px
+}
+.modtr {
+	BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/0196817f9c0e3d260dd7da57.jpg?v=1) #ffffff no-repeat right top; WIDTH: 10px; HEIGHT: 24px
+}
+#m_blog DIV.tit {
+	PADDING-LEFT: 78px; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/ab97821a4314a6078618bf8f.jpg?v=1) no-repeat 2px -6px; COLOR: #442511; LINE-HEIGHT: 20px; FONT-FAMILY: ËÎÌו,arial; HEIGHT: 80px
+}
+.forpiccomm DIV.tit {
+	PADDING-LEFT: 78px; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/ab97821a4314a6078618bf8f.jpg?v=1) no-repeat 2px -6px; COLOR: #442511; LINE-HEIGHT: 20px; FONT-FAMILY: ËÎÌו,arial; HEIGHT: 80px
+}
+#m_blog DIV.tit A {
+	FONT-SIZE: 16px; COLOR: #5e7d17; TEXT-DECORATION: none
+}
+#m_blog DIV.tit A:hover {
+	COLOR: #a50801; TEXT-DECORATION: none
+}
+#m_blog DIV.date {
+	MARGIN-TOP: -50px; PADDING-LEFT: 86px; PADDING-BOTTOM: 15px
+}
+#m_blog DIV.cnt {
+	PADDING-LEFT: 10px; FONT-SIZE: 14px; COLOR: #442511
+}
+#m_blog DIV.cnt P {
+	TEXT-INDENT: 2em; LINE-HEIGHT: 150%
+}
+#m_blog DIV.more {
+	PADDING-RIGHT: 20px; TEXT-ALIGN: right
+}
+#m_blog DIV.more A {
+	COLOR: #729523
+}
+#m_blog DIV.opt {
+	LINE-HEIGHT: 24px
+}
+#m_blog DIV.opt A {
+	
+}
+#m_blog DIV.line {
+	BORDER-TOP: #cccccc 4px dotted; MARGIN-TOP: 17px; MARGIN-BOTTOM: 12px
+}
+#m_albumlist DIV.line {
+	BORDER-TOP: #cccccc 4px dotted; MARGIN-TOP: 17px; MARGIN-BOTTOM: 12px
+}
+#m_friend DIV.line {
+	BORDER-TOP: #cccccc 4px dotted; MARGIN-TOP: 17px; MARGIN-BOTTOM: 12px
+}
+#m_pet_setting DIV.line {
+	BORDER-TOP: #cccccc 4px dotted; MARGIN-TOP: 17px; MARGIN-BOTTOM: 12px
+}
+#page {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.pg {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+#page A {
+	TEXT-DECORATION: none
+}
+.pg A {
+	TEXT-DECORATION: none
+}
+#in_related_doc TABLE {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#in_reader TABLE {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#in_comment TABLE {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#in_send TABLE {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#in_msg TABLE.item {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#in_related_doc {
+	TEXT-ALIGN: center
+}
+#in_related_doc DIV.tit {
+	TEXT-ALIGN: left
+}
+#in_comment TABLE.item {
+	WIDTH: 95%
+}
+#commListBox {
+	WIDTH: 95%
+}
+#in_msg TABLE.item {
+	WIDTH: 95%
+}
+#in_comment TD.cnt {
+	PADDING-LEFT: 40px! important
+}
+#in_msg TD.cnt {
+	PADDING-LEFT: 40px! important
+}
+#m_comment TD DIV.item {
+	PADDING-LEFT: 40px! important
+}
+#in_comment SPAN A {
+	FONT-SIZE: 12px
+}
+#in_msg SPAN A {
+	FONT-SIZE: 12px
+}
+#in_comment DIV.line {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+#in_msg DIV.line {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+#in_send TD.f14 {
+	WHITE-SPACE: nowrap
+}
+#in_send INPUT {
+	FONT-SIZE: 12px; PADDING-TOP: 2px
+}
+#m_searchFriend INPUT {
+	FONT-SIZE: 12px; PADDING-TOP: 2px
+}
+#m_search INPUT.submit {
+	FONT-SIZE: 12px; PADDING-TOP: 2px
+}
+#spBlogCmtText {
+	BORDER-RIGHT: #a50801 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #a50801 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 14px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/3dd4c2df348bd54a94ee37cd.jpg?v=1) #fff no-repeat center top; PADDING-BOTTOM: 5px; BORDER-LEFT: #a50801 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #a50801 1px solid
+}
+#spPicCmtText {
+	BORDER-RIGHT: #a50801 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #a50801 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 14px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/3dd4c2df348bd54a94ee37cd.jpg?v=1) #fff no-repeat center top; PADDING-BOTTOM: 5px; BORDER-LEFT: #a50801 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #a50801 1px solid
+}
+.EditorContainer {
+	BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/3dd4c2df348bd54a94ee37cd.jpg?v=1) #fff no-repeat center top
+}
+.EditorContainer IFRAME {
+	BORDER-RIGHT: #a50801 1px solid; BORDER-TOP: medium none; BORDER-LEFT: #a50801 1px solid; BORDER-BOTTOM: #a50801 1px solid
+}
+#spBlogCmtor {
+	BORDER-RIGHT: #a50801 1px solid; BORDER-TOP: #a50801 1px solid; BORDER-LEFT: #a50801 1px solid; BORDER-BOTTOM: #a50801 1px solid
+}
+#spPicCmtor {
+	BORDER-RIGHT: #a50801 1px solid; BORDER-TOP: #a50801 1px solid; BORDER-LEFT: #a50801 1px solid; BORDER-BOTTOM: #a50801 1px solid
+}
+#spBCmtAuthor {
+	BORDER-RIGHT: #a50801 1px solid; BORDER-TOP: #a50801 1px solid; BORDER-LEFT: #a50801 1px solid; BORDER-BOTTOM: #a50801 1px solid
+}
+#spBlogCmtURL {
+	BORDER-RIGHT: #a50801 1px solid; BORDER-TOP: #a50801 1px solid; BORDER-LEFT: #a50801 1px solid; BORDER-BOTTOM: #a50801 1px solid
+}
+#spPicCmtURL {
+	BORDER-RIGHT: #a50801 1px solid; BORDER-TOP: #a50801 1px solid; BORDER-LEFT: #a50801 1px solid; BORDER-BOTTOM: #a50801 1px solid
+}
+#spBCmtURL {
+	BORDER-RIGHT: #a50801 1px solid; BORDER-TOP: #a50801 1px solid; BORDER-LEFT: #a50801 1px solid; BORDER-BOTTOM: #a50801 1px solid
+}
+#spVerifyKey {
+	BORDER-RIGHT: #a50801 1px solid; BORDER-TOP: #a50801 1px solid; BORDER-LEFT: #a50801 1px solid; BORDER-BOTTOM: #a50801 1px solid
+}
+#m_comm_info DIV A {
+	DISPLAY: inline; BACKGROUND: url(http://imgsrc.baidu.com/css/pic/item/3312e316f159ca5421a4e9e0.jpg) no-repeat
+}
+#m_comm_info DIV A:hover IMG {
+	VISIBILITY: hidden
+}
+#mod_bgmusic .modact {
+	COLOR: #a50801
+}
+#m_albumlist SPAN.cmt A {
+	COLOR: #a50801! important
+}
+#m_albumlist SPAN.cmt A:hover {
+	COLOR: #5e7d17! important
+}
+A#uuDiy {
+	COLOR: #a50801
+}
+A#uuDiy:hover {
+	COLOR: #442511
+}
+#m_links DIV.item SPAN {
+	MARGIN-LEFT: 0px! important
+}
+#m_links DIV.item A {
+	PADDING-LEFT: 18px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/2eb46d61bea507c18db10dd6.jpg?v=1) no-repeat 0px 40%
+}
+#m_artclg DIV.item A {
+	PADDING-LEFT: 18px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/2eb46d61bea507c18db10dd6.jpg?v=1) no-repeat 0px 40%
+}
+#m_filed DIV.item A {
+	PADDING-LEFT: 18px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/2eb46d61bea507c18db10dd6.jpg?v=1) no-repeat 0px 40%
+}
+#m_comment #cmtArea A {
+	PADDING-LEFT: 18px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/2eb46d61bea507c18db10dd6.jpg?v=1) no-repeat 0px 40%
+}
+#m_comment #picCmt TD.name A {
+	PADDING-LEFT: 18px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/2eb46d61bea507c18db10dd6.jpg?v=1) no-repeat 0px 40%
+}
+#m_cang DIV A {
+	PADDING-LEFT: 18px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/2eb46d61bea507c18db10dd6.jpg?v=1) no-repeat 0px 40%
+}
+#m_friblog DIV.item A.user {
+	PADDING-LEFT: 18px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/2eb46d61bea507c18db10dd6.jpg?v=1) no-repeat 0px 40%
+}
+#m_mylink1 DIV.item SPAN A {
+	PADDING-LEFT: 18px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/2eb46d61bea507c18db10dd6.jpg?v=1) no-repeat 0px 40%
+}
+#m_mylink2 DIV.item SPAN A {
+	PADDING-LEFT: 18px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/2eb46d61bea507c18db10dd6.jpg?v=1) no-repeat 0px 40%
+}
+#m_mylink3 DIV.item SPAN A {
+	PADDING-LEFT: 18px; BACKGROUND: url(http://hiphotos.baidu.com/yomahome/pic/item/2eb46d61bea507c18db10dd6.jpg?v=1) no-repeat 0px 40%
+}
+#m_layout_setting .left DIV {
+	COLOR: #a50801! important
+}
+#m_layout_setting .content A {
+	COLOR: #a50801! important
+}
+.stat TD {
+	FONT-SIZE: 14px; PADDING-BOTTOM: 0px! important; VERTICAL-ALIGN: middle; LINE-HEIGHT: 24px
+}
+#m_comment #artCmt {
+	MARGIN-TOP: -16px
+}
+#m_comment #picCmt {
+	MARGIN-TOP: -16px
+}
+#m_comment A.cnt {
+	TEXT-DECORATION: none
+}
+#m_comment TD SPAN.date {
+	MARGIN-LEFT: 40px
+}
+#m_search {
+	
+}
+#m_search INPUT.submit {
+	MARGIN-TOP: 3px; MARGIN-BOTTOM: 8px
+}
+#wi {
+	BORDER-RIGHT: #a50801 1px solid; BORDER-TOP: #a50801 1px solid; BACKGROUND: #729523; BORDER-LEFT: #a50801 1px solid; BORDER-BOTTOM: #a50801 1px solid; max-width: 80%
+}
+DIV#cals {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 5px; BORDER-TOP: medium none; PADDING-LEFT: 5px; BACKGROUND: #729523; PADDING-BOTTOM: 5px; BORDER-LEFT: medium none; WIDTH: auto; PADDING-TOP: 5px; BORDER-BOTTOM: medium none
+}
+DIV#cals .cal_yr TD {
+	COLOR: #000000; LINE-HEIGHT: 12px
+}
+DIV#cals TD {
+	FONT-SIZE: 10px; BACKGROUND: #fff8ec; LINE-HEIGHT: 12px
+}
+DIV#cals .today {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 1px; BORDER-TOP: medium none; PADDING-LEFT: 1px; FONT-WEIGHT: bold; BACKGROUND: #db5c0d; PADDING-BOTTOM: 1px; BORDER-LEFT: medium none; COLOR: #ffffff; PADDING-TOP: 1px; BORDER-BOTTOM: medium none
+}
+DIV#cals .cal_week TD {
+	FONT-WEIGHT: normal; COLOR: #db5c0d
+}
+DIV#cals .cal_date {
+	COLOR: #000000
+}
+DIV#cals .cal_active {
+	COLOR: #a50801; TEXT-DECORATION: none
+}
+DIV#cals .cal_select {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #db5c0d; TEXT-DECORATION: none
+}
+DIV#cals .yr_normal {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; BACKGROUND: #ffffff; PADDING-BOTTOM: 0px; BORDER-LEFT: medium none; LINE-HEIGHT: 14px; PADDING-TOP: 0px; BORDER-BOTTOM: medium none
+}
+DIV#cals .mth_normal {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; BACKGROUND: #ffffff; PADDING-BOTTOM: 0px; BORDER-LEFT: medium none; LINE-HEIGHT: 14px; PADDING-TOP: 0px; BORDER-BOTTOM: medium none
+}
+DIV#cals .yr_sel {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#cals .mth_sel {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#m_rss TD {
+	FONT-SIZE: 20px; COLOR: #a50801
+}
+#m_rss DIV.item A {
+	FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+#mod_inbaidu .list A {
+	FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+#m_friendStat TD {
+	FONT-SIZE: 12px; BORDER-BOTTOM: medium none
+}
+#mod_aboutme DIV.cnt P {
+	FONT-SIZE: 13px; LINE-HEIGHT: 20px
+}
+#mod_inbaidu UL {
+	BORDER-BOTTOM: medium none
+}
+#mod_inbaidu .title {
+	FONT-SIZE: 13px
+}
+#mod_inbaidu .list {
+	MARGIN-BOTTOM: 5px; COLOR: #a50801; BORDER-BOTTOM: medium none
+}
+#phx {
+	FILTER: Alpha(Opacity=100, FinishOpacity=40, Style=2, StartX=20, StartY=40, FinishX=0, FinishY=0) gray
+}
